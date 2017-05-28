@@ -1,1 +1,1 @@
-# TestSimpleBlock module for Magento 2
+# ExampleSimpleBlock module for Magento 2
